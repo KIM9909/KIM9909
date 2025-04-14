@@ -5,9 +5,9 @@
 
 <div align="center" style="background-color: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhwj2280)](https://solved.ac/profile/fkdldj4857)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fkdldj4857)](https://solved.ac/profile/fkdldj4857)
   
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hhwj2280&theme=dark)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=fkdldj4857&theme=dark)
   
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hinoyat&theme=dark&border_radius=10&locale=ko&date_format=%5BY.%5Dn.j&exclude_days=Sun" alt="GitHub Streak" /></a>
 </div>
