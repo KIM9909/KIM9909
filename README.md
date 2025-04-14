@@ -1,6 +1,16 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=7174d6&height=120&text=Hi%20there,%20I%20am%20Hong&animation=&fontColor=498fa7&fontSize=60" />
     </div>
+    <h2 align="center">🏆 Algorithm</h2>
+
+<div align="center" style="background-color: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhwj2280)](https://solved.ac/profile/hhwj2280)
+  
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hhwj2280&theme=dark)
+  
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hinoyat&theme=dark&border_radius=10&locale=ko&date_format=%5BY.%5Dn.j&exclude_days=Sun" alt="GitHub Streak" /></a>
+</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
