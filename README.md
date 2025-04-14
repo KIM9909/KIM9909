@@ -1,5 +1,5 @@
 <div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7174d6&height=170&text=Hi%20there,%20I%20am%20Hong&animation=&fontColor=498fa7&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7174d6&height=170&text=Greedy%20Developer,%20Hong&animation=&fontColor=498fa7&fontSize=60" />
     </div>
     <h2>🏆 Algorithm</h2>
 
