@@ -1,9 +1,9 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=7174d6&height=120&text=Hi%20there,%20I%20am%20Hong&animation=&fontColor=498fa7&fontSize=60" />
     </div>
-    <h2 align="center">🏆 Algorithm</h2>
+    <h2>🏆 Algorithm</h2>
 
-<div align="center" style="background-color: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
+<div style="background-color: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fkdldj4857)](https://solved.ac/profile/fkdldj4857)
   
