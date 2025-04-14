@@ -5,7 +5,7 @@
 
 <div align="center" style="background-color: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhwj2280)](https://solved.ac/profile/hhwj2280)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhwj2280)](https://solved.ac/profile/fkdldj4857)
   
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hhwj2280&theme=dark)
   
