@@ -7,7 +7,7 @@
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fkdldj4857)](https://solved.ac/profile/fkdldj4857)
   
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=fkdldj4857&theme=dark)
+ 
   
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hinoyat&theme=dark&border_radius=10&locale=ko&date_format=%5BY.%5Dn.j&exclude_days=Sun" alt="GitHub Streak" /></a>
 </div>
