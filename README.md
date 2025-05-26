@@ -29,7 +29,6 @@
 <h2 align="center" style="border-bottom: 3px solid #7174d6; padding-bottom: 7px; margin-top: 30px;">
   🛠️ Tech Stack
 </h2>
-
 <!-- Frontend 기술 스택 -->
 <h3 align="center" style="border-bottom: 2px solid #ff3e6c; padding-bottom: 5px; color: #ff3e6c;">
   🎨 Frontend
@@ -52,7 +51,6 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 </p>
-
 <!-- Backend 기술 스택 -->
 <h3 align="center" style="border-bottom: 2px solid #8cffd9; padding-bottom: 5px; color: #8cffd9;">
   ⚙️ Backend
@@ -63,6 +61,10 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JPQL-007396?style=flat-square&logo=Java&logoColor=white"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </p>
@@ -70,7 +72,17 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
-
+<!-- Message Queue & Search -->
+<h3 align="center" style="border-bottom: 2px solid #ff6b35; padding-bottom: 5px; color: #ff6b35;">
+  📡 Message Queue & Search
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
+</p>
 <!-- DevOps & 인프라 -->
 <h3 align="center" style="border-bottom: 2px solid #7174d6; padding-bottom: 5px; color: #7174d6;">
   🚀 DevOps & Infrastructure
@@ -78,7 +90,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>&nbsp;
