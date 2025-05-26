@@ -81,7 +81,8 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=MinIO&logoColor=white"/>
 </p>
 <!-- DevOps & 인프라 -->
 <h3 align="center" style="border-bottom: 2px solid #7174d6; padding-bottom: 5px; color: #7174d6;">
