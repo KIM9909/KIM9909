@@ -47,27 +47,17 @@
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 </p>
-<!-- Frontend 기술 스택 -->
-<h3 align="center" style="border-bottom: 2px solid #ff3e6c; padding-bottom: 5px; color: #ff3e6c;">
-  🎨 Frontend
+<!-- Message Queue & Search -->
+<h3 align="center" style="border-bottom: 2px solid #ff6b35; padding-bottom: 5px; color: #ff6b35;">
+  📡 Message Queue & Search
 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=React%20Query&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=MinIO&logoColor=white"/>
 </p>
 <!-- Backend 기술 스택 -->
 <h3 align="center" style="border-bottom: 2px solid #8cffd9; padding-bottom: 5px; color: #8cffd9;">
@@ -83,38 +73,20 @@
   <img src="https://img.shields.io/badge/JPQL-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
-<!-- Message Queue & Search -->
-<h3 align="center" style="border-bottom: 2px solid #ff6b35; padding-bottom: 5px; color: #ff6b35;">
-  📡 Message Queue & Search
+<!-- Frontend 기술 스택 -->
+<h3 align="center" style="border-bottom: 2px solid #ff3e6c; padding-bottom: 5px; color: #ff3e6c;">
+  🎨 Frontend
 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=React%20Query&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=MinIO&logoColor=white"/>
-</p>
-
-<!-- 개발 도구 -->
-<h3 align="center" style="border-bottom: 2px solid #ffd700; padding-bottom: 5px; color: #ffd700;">
-  🔧 Tools & Collaboration
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp;"/>
 </p>
 
 <!-- 연락처 섹션 -->
