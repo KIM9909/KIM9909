@@ -109,14 +109,10 @@
 </div>
 
 <!-- GitHub 통계 -->
-<h2 align="center" style="border-bottom: 3px solid #ffd700; padding-bottom: 7px; margin-top: 30px;">
+<h2 align="center" style="border-bottom: 1px solid #ffd700; padding-bottom: 7px; margin-top: 30px;">
   📈 Stats
 </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KIM9909&bg_color=0d1117&title_color=ff3e6c&text_color=8cffd9&icon_color=7174d6&border_color=ff3e6c&show_icons=true&theme=radical&ring_color=7174d6" alt="GitHub Stats" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIM9909&layout=compact&bg_color=0d1117&title_color=ff3e6c&text_color=8cffd9&border_color=ff3e6c" alt="Top Languages" />
 </div>
