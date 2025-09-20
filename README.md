@@ -29,6 +29,24 @@
 <h2 align="center" style="border-bottom: 3px solid #7174d6; padding-bottom: 7px; margin-top: 30px;">
   🛠️ Tech Stack
 </h2>
+<!-- DevOps & 인프라 -->
+<h3 align="center" style="border-bottom: 2px solid #7174d6; padding-bottom: 5px; color: #7174d6;">
+  🚀 DevOps & Infrastructure
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
+</p>
 <!-- Frontend 기술 스택 -->
 <h3 align="center" style="border-bottom: 2px solid #ff3e6c; padding-bottom: 5px; color: #ff3e6c;">
   🎨 Frontend
@@ -83,24 +101,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=MinIO&logoColor=white"/>
-</p>
-<!-- DevOps & 인프라 -->
-<h3 align="center" style="border-bottom: 2px solid #7174d6; padding-bottom: 5px; color: #7174d6;">
-  🚀 DevOps & Infrastructure
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 </p>
 
 <!-- 개발 도구 -->
