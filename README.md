@@ -1,6 +1,6 @@
 <!-- 헤더 섹션 - 웨이브 효과가 있는 배너 -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7174d6&height=170&text=DevOps%20Developer,%20Hong&animation=fadeIn&fontColor=8cffd9&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7174d6&height=170&text=Hello👋&animation=fadeIn&fontColor=8cffd9&fontSize=60" />
 </div>
 
 <!-- 소개 섹션 -->
